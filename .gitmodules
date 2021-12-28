@@ -1,0 +1,3 @@
+[submodule "week1"]
+	path = week1
+	url = https://github.com/deveq/web_pub_study_week1
