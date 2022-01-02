@@ -4,3 +4,6 @@
 [submodule "week2"]
 	path = week2
 	url = https://github.com/deveq/web_pub_study_week2
+[submodule "stats_preview_card"]
+	path = stats_preview_card
+	url = https://github.com/deveq/stats_preview_card.git
