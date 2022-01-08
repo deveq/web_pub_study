@@ -7,3 +7,6 @@
 [submodule "stats_preview_card"]
 	path = stats_preview_card
 	url = https://github.com/deveq/stats_preview_card.git
+[submodule "week4"]
+	path = week4
+	url = https://github.com/deveq/web_pub_study_week4.git
